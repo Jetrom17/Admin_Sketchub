@@ -1,3 +1,4 @@
 pywebview
 # Windows
 #cefpython3
+pyinstaller
