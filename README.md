@@ -11,5 +11,9 @@ python3 sketchub.py # pywebview
 pyinstaller -F sketchub.py # Buiding OS.
 ```
 
+## Download Linux:
+
+https://gofile.io/d/MYTtiD
+
 ## IMG:
 ![](https://i.imgur.com/46vkk6e.png)
